@@ -1,5 +1,8 @@
 # cat-vs-dog-classification-using-Fastai
 
+fastai is a library builtup on pytorch developed by jeremy howard
+site::fastai.com
+
 data:: https://www.kaggle.com/tongpython/cat-and-dog
 
 
