@@ -2,7 +2,7 @@
 
 fastai is a library builtup on pytorch developed by jeremy howard
 
-site::fastai.com
+site:: https://www.fast.ai/
 
 data:: https://www.kaggle.com/tongpython/cat-and-dog
 
